@@ -1,0 +1,1 @@
+alert ("Haii, Selamat datang diwebsite aing ");
